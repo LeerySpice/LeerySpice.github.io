@@ -38,7 +38,7 @@ round-avatar: true
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#7b82a9"
+navbar-col: "#c2c6de"
 navbar-text-col: "#404040"
 navbar-children-col: "#8181e0"
 page-col: "#90cbec"
