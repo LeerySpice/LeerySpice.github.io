@@ -38,10 +38,10 @@ round-avatar: true
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#7b82a9"
 navbar-text-col: "#404040"
 navbar-children-col: "#8181e0"
-page-col: "#74b7de"
+page-col: "#90cbec"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: FALSE
   email: "jaraa.eduardo@gmail.com"
   github: LeerySpice
   twitter: Edo_jalfaro
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://github.com/LeerySpice"
+url-pretty: "website"
 
 # --- Web Statistics Section --- #
 
@@ -120,7 +120,7 @@ url-pretty: "https://github.com/LeerySpice"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: "eduardojaraalfaro"
+disqus: "eduardojaraalfaro"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
