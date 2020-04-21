@@ -40,8 +40,8 @@ round-avatar: true
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+navbar-children-col: "#8181e0"
+page-col: "#74b7de"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -91,7 +91,7 @@ share-links-active:
   linkedin: true
   reddit: true
   github: true
-  
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
