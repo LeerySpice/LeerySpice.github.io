@@ -41,7 +41,7 @@ round-avatar: true
 navbar-col: "#2550ec"
 navbar-text-col: "#404040"
 navbar-children-col: "#d8dae8"
-page-col: "#80cbec"
+page-col: "#2550ec"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
