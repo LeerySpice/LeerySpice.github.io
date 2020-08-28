@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Eduardo Jara Alfaro
+# title: Eduardo Jara Alfaro
 
 # Short description of your site
 description: LeerySpice's website
@@ -38,7 +38,7 @@ round-avatar: true
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#a8dae8"
+navbar-col: "#2550ec"
 navbar-text-col: "#404040"
 navbar-children-col: "#d8dae8"
 page-col: "#80cbec"
