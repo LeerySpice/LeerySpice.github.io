@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## abstract
+Soy un profesional con manejo y experiencia en investigación y desarrollo de tecnología. Cuento con una sólida base en ingeniería, diseño de planos, esquemáticos, entre otros. Poseo experiencia en gestión de proyectos para la industria de la Minería y la Madera, realizando visitas de planificación, levantamiento de requerimientos técnicos, ingeniería conceptual y de detalle, planificación y ejecución de proyectos, todo esto basado en la implementación de diferentes tecnologías para cada industria.
+Mi disposición es explorar, participar y colaborar para el trabajo en equipo, con un alto sentido de responsabilidad y compromiso
