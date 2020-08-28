@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Home: "https://jaraaeduardo.myportfolio.com/"
+  Home: "https://www.linkedin.com/in/jaraa-eduardo/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -38,10 +38,10 @@ round-avatar: true
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#d8dae8"
+navbar-col: "#a8dae8"
 navbar-text-col: "#404040"
 navbar-children-col: "#d8dae8"
-page-col: "#90cbec"
+page-col: "#80cbec"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -51,7 +51,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
